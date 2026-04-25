@@ -2,23 +2,18 @@
 
 ## 📸 Hasil Testing (Postman)
 
-### 🔹 GET All Tasks
-![GET TASKS](./ss/get-tasks.png)
 
-### 🔹 POST Task
-![POST TASK](./ss/post-task.png)
+![](./Screenshot(769).png)
 
-### 🔹 GET by ID
-![GET BY ID](./ss/get-by-id.png)
+![](./ss/post-task.png)
 
-### 🔹 Validasi Error 400
-![ERROR 400](./ss/error-400.png)
+![](./ss/get-by-id.png)
 
-### 🔹 Error 404
-![ERROR 404](./ss/error-404.png)
+![](./ss/error-400.png)
 
-### 🔹 DELETE Task
-![DELETE](./ss/delete.png)
+![](./ss/error-404.png)
+
+![](./ss/delete.png)
 
 ---
 

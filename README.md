@@ -5,15 +5,19 @@
 
 ![](./Screenshot(769).png)
 
-![](./ss/post-task.png)
+![](./Screenshot(770).png)
 
-![](./ss/get-by-id.png)
+![](./Screenshot(771).png)
 
-![](./ss/error-400.png)
+![](./Screenshot(772).png)
 
-![](./ss/error-404.png)
+![](./Screenshot(773).png)
 
-![](./ss/delete.png)
+![](./Screenshot(774).png)
+
+![](./Screenshot(775).png)
+
+![](./Screenshot(776).png)
 
 ---
 
